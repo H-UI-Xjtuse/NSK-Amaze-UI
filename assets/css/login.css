@@ -1,0 +1,27 @@
+/*class命名规则：网页名_位置_元素*/
+.login_top_div{
+    width: 100%;
+    height: 200px;
+    margin-left: 2%;
+    background: #ffffff;
+    background: url(../images/logo.png) left no-repeat;
+}
+.login_mid_div{
+    width: 100%;
+    height: 500px;
+    background: #ffffff;
+    background: url(../images/login_logo.png);
+}
+.login_midleft_img{
+    padding-left: 30%;
+}
+.login_midright_div{
+    float: right;
+    width: 40%;
+    height: 100%;
+}
+.login_bot_div{
+    width: 100%;
+    height: 200px;
+    background: #ffffff;
+}
